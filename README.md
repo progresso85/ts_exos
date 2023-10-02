@@ -13,6 +13,14 @@ Ce fichier README permet de comprendre comment fonctionne ce projet.
 
 ## Comment utiliser le projet
 
+Commencez par
+```
+npm i
+```
+Pour installer les dépendances du projet
+
+### Les exos
+
 Pour compléter les exercices, vous devrez créer des fichiers nommés `exo1.ts`, `exo2.ts`, etc...
 Vous retrouverez des informations sur `exoN.infos.md`
 
