@@ -25,4 +25,10 @@ npm run test
 
 Cela lancera les tests pour tous les exercices.
 
-> Le test ne peut pas être modifié
+> Les tests ne peuvent pas être modifié
+
+## Comment lancer uniquement le fichier exoN.ts
+
+```bash
+npm run dev:exo1
+```
